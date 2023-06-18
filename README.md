@@ -26,7 +26,7 @@ Agora, com base nesse sistema de codificação, é possível realizar diversas o
 Então, o ASCII é uma forma padronizada de representar caracteres em computadores, atribuindo a cada caractere um valor numérico único. Ele permite a comunicação e o processamento de textos de forma consistente em diferentes sistemas.
 
 
-EXPLICACÃO DO CODIGO (criptografia)
+EXPLICACÃO DO CÓDIGO (criptografia)
 
 Esse código que temos aqui é um programa em C que realiza uma criptografia simples de mensagens utilizando uma chave numérica. O objetivo é tornar a mensagem ilegível para quem não conhece a chave.
 
@@ -50,7 +50,7 @@ Agora, se você digitar uma opção inválida, o programa exibe uma mensagem de 
 
 É importante ressaltar que esse código é apenas um exemplo básico de criptografia usando deslocamento de caracteres na tabela ASCII. No entanto, essa forma de criptografia não é considerada segura para proteger informações sensíveis, pois é facilmente reversível e vulnerável a ataques de força bruta e análise de frequência.
 
-EXPLICAÇÃO DO CODIGO (Descriptografia)
+EXPLICAÇÃO DO CÓDIGO (Descriptografia)
 
 Esse código em linguagem C é um exemplo de descriptografia de uma mensagem criptografada. Vamos entender como ele funciona passo a passo.
 
