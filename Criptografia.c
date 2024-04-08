@@ -30,7 +30,7 @@ int main() {
         switch(opcao) {
             case 1:
                 printf("\nDigite a mensagem a ser criptografada: ");
-                getchar(); // Limpa o buffer do teclado
+                getchar();
                 fgets(mensagem, 100, stdin);
 
                 printf("Digite a chave para criptografar a mensagem: ");
